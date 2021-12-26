@@ -22,6 +22,7 @@ export default function Layout({ children, home }) {
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
+				<link rel="icon" type="image/x-icon" href="data:image/x-icon;,"/>
       </Head>
       <header className={styles.header}>
         {home ? (

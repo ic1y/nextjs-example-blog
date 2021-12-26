@@ -18,10 +18,6 @@
         {
           "key" : "Referrer-Policy",
           "value" : "no-referrer"
-        },
-        {
-          "key" : "Content-Security-Policy",
-          "value" : "default-src 'self';"
         }
       ]
     }
