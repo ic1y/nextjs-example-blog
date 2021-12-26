@@ -5,7 +5,7 @@ date: "2021-12-26"
 
 # Heading 1
 
-Have some **bold** text. We've got some *italic* text. How about an __*combination of both*__?
+This is some **bold** text. Here is some *italic* text. Or maybe, an __*combination of both*__.
 ## Heading 2
 
 Example image
@@ -34,7 +34,7 @@ Interesting Links
 
 [an interesting documentary about polar bears](https://example.com)
 
-[ten reasons why iphones are cool](https://example.com)
+[ten reasons why polar bears are cool](https://example.com)
 
 ###### Heading 6
 
@@ -42,3 +42,7 @@ Interesting Links
 	- e 
 		- e
 			- e
+	- e
+		1. w
+		2. www
+		3. wwww

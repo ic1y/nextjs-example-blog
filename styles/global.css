@@ -34,11 +34,20 @@ img {
 	margin: 0 auto;
 }
 
+::selection {
+	background-color: #ccddff;
+	color: #0f0f0f;
+}
+
 @media (prefers-color-scheme: light) {
 	html {
 		background-color: #f0f0f0; color: #0f0f0f;
 	}
 	a {
 		color: #0044dd;	
+	}
+	::selection {
+		background-color: #0044dd;
+		color: #f0f0f0;
 	}
 }
